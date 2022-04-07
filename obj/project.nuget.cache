@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pwk33xDtPGTye5iBjtt+pm2CDs1TQ7DHGfTfRbMKdFcPlXv071lw2lcwmoVIoo8A0WJ6L3G7QSRjxLVTX4Mctw==",
+  "success": false,
+  "projectFilePath": "E:\\Practical .NET\\MVC WEB APP\\MVC WEB APP.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore (>= 6.0.3)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Design (>= 6.0.3)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.SqlServer (>= 6.0.3)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Tools.Dotnet (>= 2.0.3)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools.Dotnet",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
